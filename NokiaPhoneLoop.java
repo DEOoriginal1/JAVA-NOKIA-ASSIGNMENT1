@@ -59,7 +59,6 @@ System.out.println("Select One: ");
       10 Speed dials
       11 Voice tags
       0  Back
-
       """);
 			      System.out.println("Select your option: ");
 			      int phoneBook = input.nextInt();
@@ -85,8 +84,7 @@ System.out.println("Select One: ");
                         1  Memory in use
                         2  Type of view
                         3  Memory status
-                        0  Back
-                        
+                        0  Back                        
               """);       
                         System.out.print("Select one option: "); 
                         int options = input.nextInt();
@@ -129,8 +127,7 @@ System.out.println("Select One: ");
           8  Info service
           9  Voice mailbox number
           10 Service command editor
-          0  Back
-          
+          0  Back          
 """);
 
             System.out.println("Select one option: ");
@@ -155,8 +152,7 @@ System.out.println("Select One: ");
                             
                         1  Set 1
                         2  Common
-                        0  Back
-                        
+                        0  Back                        
               """);
                 
                     System.out.print("Select one option: ");
@@ -175,8 +171,7 @@ System.out.println("Select One: ");
                           1 Message centre number
                           2 Messages sent as
                           3 Message validity
-                          0 Back
-                          
+                          0 Back                          
                     """);
                           
                         System.out.print("Select one option: "); 
@@ -206,8 +201,7 @@ System.out.println("Select One: ");
                               
                           1 Delivery reports
                           2 Reply via same centre
-                          3 Character support
-                          
+                          3 Character support                          
                     """);
                           
                         System.out.print("Select one option: "); 
@@ -257,8 +251,7 @@ System.out.println("Select One: ");
                   6 Show call costs
                   7 Call cost settings
                   8 Prepaid credit
-                  0 Back
-                  
+                  0 Back                  
 """);  
                 System.out.print("Select one option: ");
                 int callRegister = input.nextInt();
@@ -285,8 +278,7 @@ System.out.println("Select One: ");
                       3  Received calls’ duration
                       4  Dialled calls’ duration
                       5  Clear timers
-                      0  Back
-                      
+                      0  Back                      
                 """);
                   
                        System.out.print("Select one option: "); 
